@@ -1,0 +1,4 @@
+/* Kolor tła switcha (np. APEX item typu Switch) w stanie pośrednim */
+.a-Switch input[type=checkbox]:indeterminate+.a-Switch-toggle {
+    background-color: #f1c40f ;
+}
